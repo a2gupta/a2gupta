@@ -1,7 +1,6 @@
-<p align="center" style="font-size: 240px;">
-  Hi 👋, I'm Arpit Gupta
-</p>
-A passionate Software Engineer from India
+# Hi 👋, I'm Arpit Gupta
+### A passionate Software Engineer from India
+
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/1d4addd0-aefe-4851-8bd2-42506c2868f5"/>
