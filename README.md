@@ -1,5 +1,5 @@
 # Hi 👋, I'm Arpit Gupta
-### A passionate Software Engineer from India
+### A passionate Software Engineer from India.
 
 
 <p align="right">
