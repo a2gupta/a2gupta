@@ -1,4 +1,6 @@
-Hi 👋, I'm Arpit Gupta
+<p align="center" style="font-size: 240px;">
+  Hi 👋, I'm Arpit Gupta
+</p>
 A passionate Software Engineer from India
 
 <p align="right">
