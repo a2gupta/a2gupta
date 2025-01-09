@@ -1,4 +1,5 @@
 Hi 👋, I'm Arpit Gupta
+A passionate Software Engineer from India
 
 <!--
 **a2gupta/a2gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
