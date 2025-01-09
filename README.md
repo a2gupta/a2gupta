@@ -1,6 +1,9 @@
 Hi 👋, I'm Arpit Gupta
-_________________________________________________________________________
 A passionate Software Engineer from India
+
+<p align="center">
+  <img src="https://example.com/developer-illustration.png" alt="Developer Illustration" width="300"/>
+</p>
                                           ![image](https://github.com/user-attachments/assets/1d4addd0-aefe-4851-8bd2-42506c2868f5)
 
 <!--
